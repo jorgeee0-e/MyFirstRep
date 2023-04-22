@@ -1,4 +1,4 @@
-const productRouter=require('../routes/products');
+const productRouter=require('../routes/product');
 const usersRouter=require('../routes/users');
 const express=require('express');
 function apiRouter(app){
